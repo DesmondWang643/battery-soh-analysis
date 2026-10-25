@@ -40,6 +40,10 @@ Visualize engineering data in a clear and practical way.
 
 Build a simple workflow that can later be expanded for battery validation and reliability analysis.
 
+## SOH Visualization
+
+![Battery SOH Analysis](battery_soh_plot.png)
+
 ## Data
 
 This project uses public or simulated battery data only.
